@@ -1,0 +1,22 @@
+#
+NCSU_Digital_Parts inv symbol
+I14
+I13
+I15
+#
+project tx_gate symbol
+I12
+I11
+#
+project xor symbol
+I7
+I6
+#
+project D_latch symbol
+I10
+I5
+I4
+I3
+I2
+I1
+I0
