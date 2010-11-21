@@ -1,0 +1,20 @@
+#
+NCSU_Digital_Parts inv symbol
+I7
+I6
+#
+NCSU_Digital_Parts nand2 symbol
+I5
+#
+project nDDYNLATCH symbol
+I4
+I3
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN4
+PIN3
