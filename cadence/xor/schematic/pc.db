@@ -8,16 +8,10 @@ M0
 project tx_gate symbol
 I0
 #ISCELL
-NCSU_Analog_Parts vdd symbol
-I1
-#ISCELL
-NCSU_Analog_Parts gnd symbol
-I2
-#ISCELL
 basic ipin symbol
-PIN4
 PIN0
 PIN1
+PIN4
 #ISCELL
 basic opin symbol
 PIN3
