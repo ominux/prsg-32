@@ -1,8 +1,13 @@
 #
+project clock symbol
+I16
+#
 NCSU_Digital_Parts inv symbol
-I14
-I13
+I18
+I17
 I15
+I13
+I14
 #
 project tx_gate symbol
 I12
@@ -20,3 +25,9 @@ I3
 I2
 I1
 I0
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN1

@@ -1,18 +1,18 @@
 #
 NCSU_Digital_Parts inv symbol
+I4
 I3
 I2
 #
 project tx_gate symbol
 I1
 #ISCELL
-basic ipin symbol
-PIN0
-#ISCELL
 basic opin symbol
 PIN1
 PIN4
 #ISCELL
 basic iopin symbolr
-PIN3
-PIN2
+PIN5
+#ISCELL
+basic ipin symbol
+PIN0
