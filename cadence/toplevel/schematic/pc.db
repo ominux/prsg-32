@@ -20,13 +20,13 @@ I7
 I6
 #
 project D_latch symbol
-I10
-I5
-I4
-I3
-I2
-I1
-I0
+Ltemp
+L2
+L4
+L6
+L1
+L3
+L5
 #ISCELL
 basic ipin symbol
 PIN0
