@@ -15,7 +15,7 @@ NCSU_Analog_Parts gnd symbol
 I2
 #ISCELL
 basic ipin symbol
-PIN2
+PIN4
 PIN0
 PIN1
 #ISCELL

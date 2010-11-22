@@ -1,8 +1,8 @@
 #
 NCSU_Digital_Parts nand2 symbol
 I6
-I5
 I4
+I5
 I3
 #
 NCSU_Digital_Parts inv symbol
@@ -16,7 +16,10 @@ basic ipin symbol
 PIN0
 #ISCELL
 basic opin symbol
-PIN4
+PIN5
+PIN6
+PIN7
 PIN3
-PIN2
 PIN1
+PIN4
+PIN2
