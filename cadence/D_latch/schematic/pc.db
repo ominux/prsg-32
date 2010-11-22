@@ -1,6 +1,5 @@
 #
 NCSU_Digital_Parts inv symbol
-I4
 I3
 I2
 #
@@ -12,5 +11,6 @@ PIN1
 PIN4
 #ISCELL
 basic ipin symbol
-PIN2
+PIN3
 PIN0
+PIN2
