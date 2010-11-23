@@ -1,4 +1,7 @@
 #
+project RESET symbol
+I23
+#
 project clock symbol
 I16
 #
@@ -29,6 +32,7 @@ L3
 L5
 #ISCELL
 basic ipin symbol
+PIN2
 PIN0
 #ISCELL
 basic opin symbol
