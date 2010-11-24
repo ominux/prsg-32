@@ -6,13 +6,13 @@ project clock symbol
 I16
 #
 NCSU_Digital_Parts inv symbol
+I13
+I14
 I19
 I20
 I15
 I21
 I22
-I13
-I14
 #
 project tx_gate symbol
 I12
