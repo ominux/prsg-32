@@ -1,15 +1,15 @@
 #
+project nand2 symbol
+I12
+I11
+I10
+I9
+#
 NCSU_Analog_Parts pmos symbol
 M1
 #
 NCSU_Analog_Parts nmos symbol
 M0
-#
-NCSU_Digital_Parts nand2 symbol
-I6
-I4
-I5
-I3
 #
 NCSU_Digital_Parts inv symbol
 I2

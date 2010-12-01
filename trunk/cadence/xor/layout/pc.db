@@ -1,0 +1,28 @@
+#
+NCSU_TechLib_tsmc03d nmos layout
+I3
+#
+NCSU_TechLib_tsmc03d pmos layout
+I2
+#
+project tx_gate layout
+I1
+#ISCELL
+NCSU_TechLib_tsmc03d M1_POLY symbolic
+I0
+I7
+I4
+#ISCELL
+NCSU_TechLib_tsmc03d M2_M1 symbolic
+I6
+I5
+#ISCELL
+NCSU_TechLib_tsmc03d metal2 symbolic
+I9
+I8
+#ISCELL
+NCSU_TechLib_tsmc03d metal1 symbolic
+I13
+I12
+I11
+I10

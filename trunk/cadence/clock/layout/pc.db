@@ -1,0 +1,75 @@
+#
+NCSU_TechLib_tsmc03d ptap layout
+I13
+#
+NCSU_TechLib_tsmc03d ntap layout
+I12
+#
+project nand2 layout
+I9
+I8
+I7
+I6
+#
+NCSU_TechLib_tsmc03d nmos layout
+I4
+I5
+#
+NCSU_TechLib_tsmc03d pmos layout
+I3
+I0
+#
+project D_latch layout
+I2
+I1
+#ISCELL
+NCSU_TechLib_tsmc03d M2_M1 symbolic
+I25
+I18
+I21
+I40
+I34
+I36
+I32
+I29
+I30
+I19
+I22
+I16
+I11
+I10
+#ISCELL
+NCSU_TechLib_tsmc03d M1_POLY symbolic
+I17
+I20
+I39
+I35
+I31
+I28
+I33
+I23
+I24
+I15
+I14
+#ISCELL
+NCSU_TechLib_tsmc03d M3_M2 symbolic
+I27
+I26
+#ISCELL
+NCSU_TechLib_tsmc03d metal2 symbolic
+I38
+I37
+#ISCELL
+NCSU_TechLib_tsmc03d metal1 symbolic
+I50
+I49
+I48
+I47
+I46
+I45
+I42
+I41
+#ISCELL
+NCSU_TechLib_tsmc03d poly symbolic
+I44
+I43
