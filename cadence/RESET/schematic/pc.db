@@ -1,10 +1,10 @@
 #
+project nand2 symbol
+I8
+#
 NCSU_Digital_Parts inv symbol
 I7
 I6
-#
-NCSU_Digital_Parts nand2 symbol
-I5
 #
 project nDDYNLATCH symbol
 I4

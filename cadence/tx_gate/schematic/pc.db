@@ -12,3 +12,9 @@ PIN0
 basic ipin symbol
 PIN4
 PIN3
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I1
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I2
