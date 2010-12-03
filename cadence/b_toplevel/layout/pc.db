@@ -1,5 +1,8 @@
 #
 project b_1to3via layout
+I34
+I31
+I30
 I29
 I28
 I27
@@ -11,6 +14,16 @@ I14
 I13
 #
 project b_1to5via layout
+I42
+I41
+I40
+I39
+I38
+I36
+I35
+I37
+I33
+I32
 I22
 I21
 I20
@@ -35,3 +48,27 @@ I3
 project b_latch_chain layout
 I2
 I1
+#ISCELL
+NCSU_TechLib_tsmc03d metal5 symbolic
+I43
+I44
+#ISCELL
+NCSU_TechLib_tsmc03d metal1 symbolic
+I50
+I49
+I48
+I47
+I46
+I45
+#ISCELL
+NCSU_TechLib_tsmc03d poly symbolic
+I59
+I60
+I58
+I57
+I56
+I55
+I54
+I53
+I52
+I51
