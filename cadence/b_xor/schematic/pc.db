@@ -1,0 +1,23 @@
+#
+NCSU_Analog_Parts nmos symbol
+M1
+#
+NCSU_Analog_Parts pmos symbol
+M0
+#
+project tx_gate symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN4
+PIN0
+PIN1
+#ISCELL
+basic opin symbol
+PIN3
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I3
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I4
