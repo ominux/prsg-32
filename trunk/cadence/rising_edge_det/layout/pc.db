@@ -7,3 +7,16 @@ I2
 #
 project b_xor layout
 I1
+#ISCELL
+NCSU_TechLib_tsmc03d metal1 symbolic
+I6
+I4
+I8
+I9
+I7
+I10
+I11
+I12
+#ISCELL
+NCSU_TechLib_tsmc03d poly symbolic
+I5
