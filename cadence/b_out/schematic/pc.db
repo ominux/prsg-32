@@ -1,0 +1,22 @@
+#
+project tx_gate symbol
+I5
+#
+project xor symbol
+I3
+#
+NCSU_Digital_Parts inv symbol
+I6
+I0
+I2
+I1
+I4
+#ISCELL
+basic ipin symbol
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN4
