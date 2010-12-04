@@ -1,0 +1,9 @@
+#
+NCSU_TechLib_tsmc03d nmos layout
+I3
+#
+NCSU_TechLib_tsmc03d pmos layout
+I2
+#
+project b_xor layout
+I1
