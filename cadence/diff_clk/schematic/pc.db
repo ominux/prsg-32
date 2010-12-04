@@ -1,0 +1,14 @@
+#
+NCSU_Digital_Parts inv symbol
+I4
+I3
+I2
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN2
+PIN1
