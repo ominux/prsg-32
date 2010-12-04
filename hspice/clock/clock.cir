@@ -138,8 +138,8 @@ M0 L NCLK R VDD!  TSMC25DP  L=240E-9 W=720E-9 AD=432E-15 AS=432E-15 PD=2.64E-6
 vVDD VDD! 0 DC 2.5
 
 vCLK CLK 0 pulse(0 2.5 0.5ns 150ps 150ps 350ps 1ns)
-vRST RST 0 pulse(0 2.5 2ns 150ps 150ps 1.85ns 4ns)
-vNRST NRST 0 pulse(2.5 0 2ns 150ps 150ps 1.85ns 4ns)
+vNRST NRST 0 pulse(0 2.5 2ns 150ps 150ps 41.85ns 44ns)
+vRST RST 0 pulse(2.5 0 2ns 150ps 150ps 41.85ns 44ns)
 
 .lib "$CDK_DIR/models/hspice/public/publicModel/tsmc25dN" NMOS 
 .lib "$CDK_DIR/models/hspice/public/publicModel/tsmc25dP" PMOS 
