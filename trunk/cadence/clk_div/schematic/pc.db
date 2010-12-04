@@ -1,0 +1,26 @@
+#
+project b_nDDYNLATCH symbol
+I8
+#
+NCSU_Analog_Parts pmos symbol
+M1
+#
+NCSU_Analog_Parts nmos symbol
+M0
+#
+project nDDYNLATCH_div symbol
+I5
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN0
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I6
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I7
+#ISCELL
+basic opin symbol
+PIN3
