@@ -1,0 +1,34 @@
+#
+project nand2 symbol
+I3
+#
+project b_nDDYNLATCH symbol
+I2
+#
+NCSU_Digital_Parts inv symbol
+I6
+I5
+I4
+I1
+I0
+#
+NCSU_Analog_Parts nmos symbol
+M1
+#
+NCSU_Analog_Parts pmos symbol
+M0
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I7
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I8
+#ISCELL
+basic ipin symbol
+PIN4
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN3
+PIN2
