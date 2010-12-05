@@ -1,15 +1,37 @@
 #
+project b_nDDYNLATCH layout
+I92
+#
+project newReset layout
+I29
+#
+project b_out layout
+I65
+I0
+#
 project b_1to3via layout
 I30
-I29
 I28
 I27
 I26
 I25
 I23
-I51
 #
 project b_1to5via layout
+I115
+I119
+I117
+I118
+I116
+I121
+I120
+I108
+I94
+I96
+I91
+I90
+I89
+I88
 I42
 I41
 I40
@@ -50,6 +72,9 @@ I43
 I44
 #ISCELL
 NCSU_TechLib_tsmc03d metal1 symbolic
+I131
+I130
+I129
 I64
 I63
 I62
@@ -69,10 +94,67 @@ NCSU_TechLib_tsmc03d poly symbolic
 I54
 I53
 I52
-I59
 I60
 I13
 I14
 I15
 I31
 I34
+#ISCELL
+NCSU_TechLib_tsmc03d M3_M2 symbolic
+I112
+I111
+I107
+I100
+I97
+I85
+I80
+I78
+I75
+I72
+I66
+I69
+I103
+#ISCELL
+NCSU_TechLib_tsmc03d M2_M1 symbolic
+I125
+I128
+I127
+I122
+I113
+I110
+I106
+I109
+I105
+I101
+I102
+I95
+I84
+I83
+I82
+I77
+I74
+I79
+I51
+I71
+I68
+#ISCELL
+NCSU_TechLib_tsmc03d M1_POLY symbolic
+I126
+I124
+I123
+I114
+I59
+I93
+I81
+I76
+I73
+I70
+I67
+#ISCELL
+NCSU_TechLib_tsmc03d M4_M3 symbolic
+I104
+I99
+I98
+I87
+I86
