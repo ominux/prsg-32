@@ -1,5 +1,7 @@
 #
 project b_1to5via layout
+I15
+I0
 I5
 I4
 #
@@ -9,11 +11,6 @@ I2
 project rising_edge_det layout
 I1
 #ISCELL
-NCSU_TechLib_tsmc03d metal5 symbolic
-I9
-I8
-I3
-#ISCELL
 NCSU_TechLib_tsmc03d metal1 symbolic
 I13
 I12
@@ -21,3 +18,7 @@ I11
 I10
 I6
 I7
+#ISCELL
+NCSU_TechLib_tsmc03d metal2 symbolic
+I9
+I8

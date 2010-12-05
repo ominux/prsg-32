@@ -7,10 +7,10 @@ I3
 #
 NCSU_Digital_Parts inv symbol
 I6
-I0
+I4
 I2
 I1
-I4
+I0
 #ISCELL
 basic ipin symbol
 PIN3
