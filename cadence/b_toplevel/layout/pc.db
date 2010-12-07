@@ -1,4 +1,10 @@
 #
+project nand3_inv layout
+I3
+#
+project diff_clk layout
+I132
+#
 project b_nDDYNLATCH layout
 I92
 #
@@ -10,7 +16,6 @@ I65
 I0
 #
 project b_1to3via layout
-I30
 I28
 I27
 I26
@@ -18,11 +23,11 @@ I25
 I23
 #
 project b_1to5via layout
-I115
 I119
 I117
 I118
 I116
+I115
 I121
 I120
 I108
@@ -32,16 +37,6 @@ I91
 I90
 I89
 I88
-I42
-I41
-I40
-I39
-I38
-I36
-I35
-I37
-I33
-I32
 I22
 I21
 I20
@@ -56,12 +51,6 @@ I9
 I7
 I8
 I10
-#
-project b_NAND_INV layout
-I6
-I5
-I4
-I3
 #
 project b_latch_chain layout
 I2
@@ -81,7 +70,6 @@ I62
 I61
 I58
 I57
-I56
 I55
 I50
 I49
@@ -91,55 +79,56 @@ I46
 I45
 #ISCELL
 NCSU_TechLib_tsmc03d poly symbolic
-I54
-I53
-I52
 I60
-I13
-I14
-I15
-I31
-I34
 #ISCELL
 NCSU_TechLib_tsmc03d M3_M2 symbolic
-I112
+I41
 I111
 I107
 I100
-I97
 I85
 I80
 I78
 I75
 I72
-I66
+I36
 I69
+I51
 I103
+I34
 #ISCELL
 NCSU_TechLib_tsmc03d M2_M1 symbolic
-I125
+I39
 I128
+I35
 I127
+I125
 I122
-I113
 I110
 I106
+I31
 I109
 I105
+I38
 I101
 I102
-I95
 I84
 I83
 I82
 I77
 I74
 I79
-I51
 I71
 I68
+I14
+I4
+I5
+I37
+I33
+I133
 #ISCELL
 NCSU_TechLib_tsmc03d M1_POLY symbolic
+I40
 I126
 I124
 I123
@@ -150,11 +139,17 @@ I81
 I76
 I73
 I70
+I13
+I6
+I15
+I30
 I67
 #ISCELL
 NCSU_TechLib_tsmc03d M4_M3 symbolic
+I42
 I104
 I99
-I98
 I87
 I86
+I32
+I52
