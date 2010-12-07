@@ -1,61 +1,74 @@
 #
-NCSU_Analog_Parts nmos symbol
-M3
-M4
-M1
+project charge_pump symbol
+I75
+I74
 #
-NCSU_Analog_Parts pmos symbol
-M2
-M5
-M6
-M0
-#
-project RESET symbol
-I23
-#
-project clock symbol
-I16
-#
-NCSU_Digital_Parts inv symbol
-I19
-I20
-I15
-I21
-I22
-I13
-I14
+project b_xor symbol
+I72
+I73
 #
 project tx_gate symbol
-I12
-I11
+I66
+I67
 #
-project xor symbol
-I7
-I6
+project b_nDDYNLATCH symbol
+I49
+I55
+I51
+I53
+I52
+I50
+I54
 #
-project D_latch symbol
-Ltemp
-L2
-L4
-L6
-L1
-L3
-L5
+NCSU_Analog_Parts nmos symbol
+M6
+M4
+M5
+#
+NCSU_Analog_Parts pmos symbol
+M0
+M1
+M2
+M3
+#
+NCSU_Digital_Parts inv symbol
+I71
+I36
+I37
+I38
+I39
+I70
+I59
+I56
+I58
+I65
+I64
+I68
+I57
+I69
+#
+project newReset symbol
+I34
+#
+project nand3 symbol
+I32
+#
+project diff_clk symbol
+I31
 #ISCELL
 basic ipin symbol
-PIN2
+PIN8
 PIN0
-#ISCELL
-basic opin symbol
+PIN6
 PIN1
+PIN2
+PIN3
+PIN4
+PIN5
+PIN7
 #ISCELL
 NCSU_Analog_Parts vdd symbol
-I26
-I29
-I30
-I24
+I40
 #ISCELL
 NCSU_Analog_Parts gnd symbol
-I27
-I28
-I25
+I41
