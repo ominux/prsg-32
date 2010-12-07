@@ -1,0 +1,18 @@
+#
+project nand2 symbol
+I9
+#
+project xor symbol
+I8
+#
+NCSU_Digital_Parts inv symbol
+I4
+I7
+I6
+I5
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN1

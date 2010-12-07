@@ -1,0 +1,37 @@
+#
+NCSU_Digital_Parts inv symbol
+I11
+I10
+I7
+I6
+I5
+#
+NCSU_Analog_Parts nmos symbol
+M1
+#
+NCSU_Analog_Parts pmos symbol
+M0
+#
+project nand2 symbol
+I2
+#
+project b_nDDYNLATCH symbol
+I1
+#
+project rising_edge_det symbol
+I0
+#ISCELL
+NCSU_Analog_Parts gnd symbol
+I8
+#ISCELL
+NCSU_Analog_Parts vdd symbol
+I9
+#ISCELL
+basic ipin symbol
+PIN4
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN3
+PIN2
