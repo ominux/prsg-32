@@ -1,0 +1,34 @@
+#
+project b_1to5via layout
+I24
+I23
+I22
+I21
+I19
+I18
+I17
+I20
+#
+project rm_m2inv layout
+I5
+I4
+I3
+I2
+#
+project rm_NAND3 layout
+I1
+#ISCELL
+NCSU_TechLib_tsmc03d metal1 symbolic
+I16
+I13
+I12
+I11
+I10
+I9
+I6
+I8
+I7
+#ISCELL
+NCSU_TechLib_tsmc03d metal5 symbolic
+I15
+I14
