@@ -1,36 +1,74 @@
 #
+NCSU_TechLib_tsmc03d nmos layout
+I65
+I46
+I45
+I19
+#
+NCSU_TechLib_tsmc03d pmos layout
+I58
+I54
+I53
+I52
+I51
+#
+project newReset layout
+I12
+#
+project b_nDDYNLATCH layout
+I38
+#
 NCSU_TechLib_tsmc03d ntap layout
+I57
+I56
+I17
+I18
 I6
 #
 NCSU_TechLib_tsmc03d ptap layout
+I39
 I5
 #
 project b_1to3via layout
+I61
+I55
+I50
+I40
+I41
+I48
+I47
+I44
+I42
+I43
+I20
+I11
+I13
+I7
+I49
+I15
 I4
 #
 project rm_sequencer layout
 I3
 #
 project b_1to5via layout
-I7
+I67
+I66
+I63
+I62
+I59
+I60
 I22
 I21
-I20
-I19
-I18
-I17
 I16
-I15
 I14
-I13
-I12
-I11
 #
 project b_latch_chain layout
 I2
 I1
 #ISCELL
 NCSU_TechLib_tsmc03d metal1 symbolic
+I64
 I36
 I35
 I34

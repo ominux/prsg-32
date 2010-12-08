@@ -12,9 +12,9 @@ project rising_edge_det layout
 I1
 #ISCELL
 NCSU_TechLib_tsmc03d metal1 symbolic
+I11
 I13
 I12
-I11
 I10
 I6
 I7
