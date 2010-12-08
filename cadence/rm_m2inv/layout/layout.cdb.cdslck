@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      rmerten2
 HostName                       sc-0216-linux6.ews.illinois.edu
-ProcessIdentifier              29396
-ProcessCreationTime_UTC        1291775045
-ProcessCreationTime_Readable   Tue Dec  7 20:24:05 2010 CST
+ProcessIdentifier              6488
+ProcessCreationTime_UTC        1291828523
+ProcessCreationTime_Readable   Wed Dec  8 11:15:23 2010 CST
 AppIdentifier                  /apps/Linux/cadence-Sept2009/IC50.46.006/tools/dfII/bin/icfb.exe
 OSType                         lnx86
-ReasonForPlacingEditLock       XXreopen for A_MODE lock
+ReasonForPlacingEditLock       XXsave write lock
 FilePathUsedToEditLock         /home/engr/rmerten2/ece482.work/trunk/cadence/rm_m2inv/layout/layout.cdb
-TimeEditLocked                 Tue Dec  7 20:38:58 2010 CST
+TimeEditLocked                 Wed Dec  8 11:43:50 2010 CST
