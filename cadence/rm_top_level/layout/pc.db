@@ -1,11 +1,13 @@
 #
 NCSU_TechLib_tsmc03d nmos layout
+I73
 I65
 I46
 I45
 I19
 #
 NCSU_TechLib_tsmc03d pmos layout
+I74
 I58
 I54
 I53
@@ -26,10 +28,13 @@ I18
 I6
 #
 NCSU_TechLib_tsmc03d ptap layout
+I77
 I39
 I5
 #
 project b_1to3via layout
+I76
+I75
 I61
 I55
 I50
