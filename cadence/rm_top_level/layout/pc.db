@@ -1,0 +1,55 @@
+#
+NCSU_TechLib_tsmc03d ntap layout
+I6
+#
+NCSU_TechLib_tsmc03d ptap layout
+I5
+#
+project b_1to3via layout
+I4
+#
+project rm_sequencer layout
+I3
+#
+project b_1to5via layout
+I7
+I22
+I21
+I20
+I19
+I18
+I17
+I16
+I15
+I14
+I13
+I12
+I11
+#
+project b_latch_chain layout
+I2
+I1
+#ISCELL
+NCSU_TechLib_tsmc03d metal1 symbolic
+I36
+I35
+I34
+I33
+I32
+I30
+I29
+I28
+I25
+I24
+I23
+I10
+I31
+I9
+I8
+#ISCELL
+NCSU_TechLib_tsmc03d metal5 symbolic
+I27
+I26
+#ISCELL
+NCSU_TechLib_tsmc03d poly symbolic
+I37
