@@ -1,0 +1,1 @@
+250nm, 1GHz, 40fF load
